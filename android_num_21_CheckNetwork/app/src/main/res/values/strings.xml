@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android_num_21_ CheckNetwork</string>
+    <string name="Hw21_title">檢查目前網路</string>
+    <string name="Hw21_check">Check</string>
+</resources>
